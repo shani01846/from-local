@@ -8,4 +8,7 @@ const b =()=>{
 }
 const d  =()=>{
  confirm("are you sure?")
+
+const c =()=>{
+ console.log("function c3");
 }
