@@ -3,5 +3,5 @@ alert("hello")
 }
 
 const b =()=>{
-    
+    return 5
 }
